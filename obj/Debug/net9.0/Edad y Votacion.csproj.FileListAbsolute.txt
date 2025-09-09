@@ -1,0 +1,14 @@
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Edad y Votacion\bin\Debug\net9.0\Edad y Votacion.exe
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Edad y Votacion\bin\Debug\net9.0\Edad y Votacion.deps.json
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Edad y Votacion\bin\Debug\net9.0\Edad y Votacion.runtimeconfig.json
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Edad y Votacion\bin\Debug\net9.0\Edad y Votacion.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Edad y Votacion\bin\Debug\net9.0\Edad y Votacion.pdb
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Edad y Votacion\obj\Debug\net9.0\Edad y Votacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Edad y Votacion\obj\Debug\net9.0\Edad y Votacion.AssemblyInfoInputs.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Edad y Votacion\obj\Debug\net9.0\Edad y Votacion.AssemblyInfo.cs
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Edad y Votacion\obj\Debug\net9.0\Edad y Votacion.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Edad y Votacion\obj\Debug\net9.0\Edad y Votacion.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Edad y Votacion\obj\Debug\net9.0\refint\Edad y Votacion.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Edad y Votacion\obj\Debug\net9.0\Edad y Votacion.pdb
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Edad y Votacion\obj\Debug\net9.0\Edad y Votacion.genruntimeconfig.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Edad y Votacion\obj\Debug\net9.0\ref\Edad y Votacion.dll
